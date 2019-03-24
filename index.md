@@ -1,8 +1,8 @@
 ## Kiyohiro YAMAGUCHI (山口 清弘)
 
-Tokyo-based Software Engineer at Google since 2012.
+Tokyo-based Software Engineer at Google.
 
-Master of Information Science and Technology, The University of Tokyo, 2012.
+Master of Information Science and Technology, The University of Tokyo.
 
 ### Expertise
 
