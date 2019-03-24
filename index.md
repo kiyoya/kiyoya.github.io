@@ -2,10 +2,16 @@
 
 Tokyo-based Software Engineer at Google since 2012.
 
-Expertise in backends (C++, Java), web applications (TypeScript, Python), and
-container orchestration (Kubernetes, Docker).
-
 Master of Information Science and Technology, The University of Tokyo, 2012.
+
+### Expertise
+
+- Backends: C++17, Java ([Guice](https://github.com/google/guice))
+- Client Applications: Objective-C++
+  ([iOS SDK](https://developer.apple.com/ios/))
+- Web Applications: Python 3 ([Django](https://www.djangoproject.com/)),
+  TypeScript ([React](https://reactjs.org/), [Redux](https://redux.js.org/))
+- Container Orchestration: Kubernetes, Docker
 
 ### Contacts
 
