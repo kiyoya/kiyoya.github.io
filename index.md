@@ -6,7 +6,9 @@ Master of Information Science and Technology, The University of Tokyo.
 
 ### Expertise
 
-- Backends: C++17, Java ([Guice](https://github.com/google/guice))
+- Information Retrieval
+- Backends: C++17, Java ([Guice](https://github.com/google/guice)),
+  [gRPC](https://grpc.io/)
 - Client Applications: Objective-C++
   ([iOS SDK](https://developer.apple.com/ios/))
 - Web Applications: Python 3 ([Django](https://www.djangoproject.com/)),
