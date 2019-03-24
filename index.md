@@ -1,10 +1,9 @@
-## Kiyohiro YAMAGUCHI
+## Kiyohiro YAMAGUCHI (山口 清弘)
 
-Software Engineer at Google since 2012.
+Tokyo-based Software Engineer at Google since 2012.
 
 Expertise in backends (C++, Java), web applications (TypeScript, Python), and
-server management (Gentoo) including container orchestration
-(Kubernetes, Docker).
+container orchestration (Kubernetes, Docker).
 
 Master of Information Science and Technology, The University of Tokyo, 2012.
 
