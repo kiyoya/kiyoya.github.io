@@ -13,9 +13,7 @@ Master of Information Science and Technology,
   [gRPC](https://grpc.io/)
 - *Client Applications:* Objective-C++
   ([iOS SDK](https://developer.apple.com/ios/))
-- *Web Applications:* Python 3
-  ([Celery](http://www.celeryproject.org/),
-   [Django](https://www.djangoproject.com/)),
+- *Web Applications:* Python 3,
   TypeScript ([React](https://reactjs.org/), [Redux](https://redux.js.org/))
 - *Container Orchestration:* Kubernetes, Docker,
   [Google Cloud Platform](https://cloud.google.com/)
