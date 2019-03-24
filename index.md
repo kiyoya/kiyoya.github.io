@@ -9,13 +9,16 @@ Master of Information Science and Technology,
 ### Expertise
 
 - Information Retrieval
-- Backends: C++17, Java ([Guice](https://github.com/google/guice)),
+- *Backends:* C++17, Java ([Guice](https://github.com/google/guice)),
   [gRPC](https://grpc.io/)
-- Client Applications: Objective-C++
+- *Client Applications:* Objective-C++
   ([iOS SDK](https://developer.apple.com/ios/))
-- Web Applications: Python 3 ([Django](https://www.djangoproject.com/)),
+- *Web Applications:* Python 3
+  ([Celery](http://www.celeryproject.org/),
+   [Django](https://www.djangoproject.com/)),
   TypeScript ([React](https://reactjs.org/), [Redux](https://redux.js.org/))
-- Container Orchestration: Kubernetes, Docker
+- *Container Orchestration:* Kubernetes, Docker,
+  [Google Cloud Platform](https://cloud.google.com/)
 
 ### Contacts
 
